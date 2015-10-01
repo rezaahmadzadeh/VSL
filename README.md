@@ -21,23 +21,23 @@ For more information, please refer to the corresponding chapter.
 ------------------------------------------------------------------
 This source code is given for free! However, I would be grateful if you refer to the book (or corresponding articles) in any academic publication that uses this code or part of it. Here are the corresponding BibTex references: 
 
-@inproceedings{ahmadzadeh2013interactive,
-  title={Interactive Robot Learning of Visuospatial Skills},
-  author={Ahmadzadeh, Seyed Reza and Kormushev, Petar and Caldwell, Darwin. G.},
-  booktitle={Advanced Robotics (ICAR) 2013, 16th International Conference on},
-  pages={1--8},
-  year={2013},
-  organization={IEEE}
-}
+	@inproceedings{ahmadzadeh2013interactive,
+	  title={Interactive Robot Learning of Visuospatial Skills},
+	  author={Ahmadzadeh, Seyed Reza and Kormushev, Petar and Caldwell, Darwin. G.},
+	  booktitle={Advanced Robotics (ICAR) 2013, 16th International Conference on},
+	  pages={1--8},
+	  year={2013},
+	  organization={IEEE}
+	}
 
-@inproceedings{ahmadzadeh2013visuospatial,
-  title={Visuospatial Skill Learning for Object Reconfiguration Tasks},
-  author={Ahmadzadeh, Seyed Reza and Kormushev, Petar and Caldwell, Darwin G.},
-  booktitle={Intelligent Robots and Systems ({IROS}), 2013 {IEEE/RSJ} International Conference on},
-  pages={685--691},
-  year={2013},
-  organization={IEEE}
-}
+	@inproceedings{ahmadzadeh2013visuospatial,
+	  title={Visuospatial Skill Learning for Object Reconfiguration Tasks},
+	  author={Ahmadzadeh, Seyed Reza and Kormushev, Petar and Caldwell, Darwin G.},
+	  booktitle={Intelligent Robots and Systems ({IROS}), 2013 {IEEE/RSJ} International Conference on},
+	  pages={685--691},
+	  year={2013},
+	  organization={IEEE}
+	}
 
 
 
@@ -61,8 +61,8 @@ This source code is given for free! However, I would be grateful if you refer to
 ------------------------------------------------------------------
 This demo requires MATLAB 7.13 (R2011b) or later, with the following toolboxes:
 
--- Computer Vision System Toolbox
--- Image processing Toolbox
+    - Computer Vision System Toolbox
+    - Image processing Toolbox
 
 
 
